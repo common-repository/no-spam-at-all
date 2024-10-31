@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: NSAL\n"
+"Language: en\n"
+
+#: functions/functions.php:160
+msgid "Likely spam comments deleted, successfully!!!"
+msgstr "Comentarios de spam probable eliminan, con éxito !!!"
+
+#: functions/functions.php:165
+msgid "Nothing Found, Nothing to do. Sigh!"
+msgstr "Por el momento, nada que hacer. Sigh!"
+
+#: functions/functions.php:183
+msgid "Meta values taking database space deleted. successfully!!!"
+msgstr "Meta valores que toman el espacio de base de datos borrados. con exito !!!"
+
+#: functions/functions.php:207
+msgid " Comment Queque, Successfully Cleared"
+msgstr " Comentario Queque, Despejado con éxito"
+
+#: functions/functions.php:212
+msgid "Sigh! Nothing to do."
+msgstr "Sigh! Nada que hacer."
+
+#: functions/functions.php:227
+msgid " Cleared all the log!!! Happy! "
+msgstr " Se borra todo el registro !!! Feliz!"
+
+#: functions/functions.php:231
+msgid " Nothing to do! Sighs"
+msgstr " Nada que hacer! Suspiros"
+
+#: no_spam_at_all.php:36
+msgid "  \"No Spam At All\" Said No"
+msgstr "  \"No Spam en todos\" dijo no"
+
+#: no_spam_at_all.php:50
+msgid "Content"
+msgstr "Contenido"
+
+#: no_spam_at_all.php:50
+msgid "Time"
+msgstr "El Tiempo"
+
+#: no_spam_at_all.php:101
+msgid "Wait for the page to load before posting comments! Manners "
+msgstr "Espere a que la página se cargue antes de publicar comentarios! Modales"
+
+#: options/nsaa_options.php:31
+msgid "\"No Spam At All\" Settings"
+msgstr "\"No Spam A Todos\" Ajustes"
+
+#: options/nsaa_options.php:36
+msgid "How often should the comment token change"
+msgstr "¿Con qué frecuencia se debe el cambio de contadores comentario"
+
+#: options/nsaa_options.php:39
+msgid "   Every Hour"
+msgstr "   Cada Hora"
+
+#: options/nsaa_options.php:40
+msgid "Twice Daily"
+msgstr "Dos Veces Al Día"
+
+#: options/nsaa_options.php:41
+msgid "Once \r\n"
+"a day"
+msgstr "Una vez \ r\n"
+"un día"
+
+#: options/nsaa_options.php:48
+msgid " Include OR Exclude comment author URL"
+msgstr " Incluir o excluir autor del comentario URL"
+
+#: options/nsaa_options.php:54
+msgid " Removing Comment Author URL, according to research will reduce number of spam comments by 40%; "
+msgstr " Extracción comentario Autor URL, según una investigación que reducirá el número de comentarios de spam en un 40%;"
+
+#: options/nsaa_options.php:57
+msgid "Successfull comment message to real commenters"
+msgstr "Comentario mensaje de éxito a comentaristas reales"
+
+#: options/nsaa_options.php:64
+msgid "Message to Evil commenters"
+msgstr "Mensaje a los comentaristas Evil"
+
+#: options/nsaa_options.php:74
+msgid "Manage Spam Comments pending Moderation"
+msgstr "Gestionar el spam Comentarios pendientes de moderación"
+
+#: options/nsaa_options.php:79
+msgid "Clear Akismet Meta values (Recommended)"
+msgstr "Borrar valores Akismet Meta (Recomendado)"
+
+#: options/nsaa_options.php:80
+msgid " Clear all comment meta"
+msgstr " Borrar todos comentario meta"
+
+#: options/nsaa_options.php:81
+msgid "if you were using akismet comment plugin, click to clear, stored comment information."
+msgstr "si estuviera usando comentario Akismet plugin, haga clic para desactivar la información almacenada comentario."
+
+#: options/nsaa_options.php:87
+msgid "Delete All Pending comments containing anchor tags"
+msgstr "Eliminar todos los comentarios pendientes que contienen las etiquetas de anclaje"
+
+#: options/nsaa_options.php:88
+msgid "Delete Has Link"
+msgstr "Eliminar Tiene Enlace"
+
+#: options/nsaa_options.php:89
+msgid "Clear all queque comments containing  atleat one anchor tag (sign of spam). Use the bottom below to clear all pending comments, if you don't really give a damn."
+msgstr "Eliminar todos los comentarios que contengan Queque atleat una etiqueta de anclaje (signo de spam). Utilice la parte inferior de abajo para borrar todos los comentarios pendientes, si usted realmente no le importa un comino."
+
+#: options/nsaa_options.php:95
+msgid "Delete All Pending comments"
+msgstr "Eliminar todos los comentarios pendientes"
+
+#: options/nsaa_options.php:96
+msgid "  Clear all pending comment"
+msgstr "  Borrar todos comentario en espera"
+
+#: options/nsaa_options.php:97
+msgid "  This step is irreversible, It will delete all comment awaiting moderation"
+msgstr "  Este paso es irreversible, se encarga de borrar toda la moderación de comentarios en espera"
+
+#: options/nsaa_options.php:102
+msgid "  Donate Via Paypal"
+msgstr "  Donar través de Paypal"
+
+#: options/nsaa_options.php:105
+msgid "Use"
+msgstr "Uso"
+
+#. Plugin Name of the plugin/theme
+#: 
+msgid "No Spam At All"
+msgstr "Sin Spam At All"
+
+#. Plugin URI of the plugin/theme
+#: 
+msgid "mrparagon.me/no-spam-at-all/"
+msgstr "mrparagon.me/no-spam-at-all/"
+
+#. Description of the plugin/theme
+#: 
+msgid "\"No Spam At All\" prevents spam comments on your wordpress website/blog and Provides you with options to manage comments. You can go from 3,000 Spam comments per day to zero spam comments."
+msgstr "\"No Spam At All\" evita los comentarios spam en tu wordpress sitio web / blog y le proporciona opciones para gestionar los comentarios. Usted puede ir de 3.000 comentarios de spam al día a cero comentarios spam."
+
+#. Author of the plugin/theme
+#: 
+msgid "Kingsley Paragon"
+msgstr "Kingsley Paragon"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "mrparagon.me"
+msgstr "mrparagon.me"
+
